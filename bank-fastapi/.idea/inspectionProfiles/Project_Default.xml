@@ -1,0 +1,65 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pyjwt" />
+          <option value="typing-inspection" />
+          <option value="aiohttp" />
+          <option value="celery" />
+          <option value="celerybeat-mongo" />
+          <option value="click" />
+          <option value="confluent-kafka" />
+          <option value="cryptography" />
+          <option value="Flask" />
+          <option value="Flask-Cors" />
+          <option value="Flask-Limiter" />
+          <option value="flask-marshmallow" />
+          <option value="flask-mongoengine" />
+          <option value="flask-smorest" />
+          <option value="google-cloud-storage" />
+          <option value="gunicorn" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="lasier" />
+          <option value="maas-security" />
+          <option value="maaslogger" />
+          <option value="MarkupSafe" />
+          <option value="marshmallow" />
+          <option value="meinheld" />
+          <option value="mongodb-migrations" />
+          <option value="mongoengine" />
+          <option value="numpy" />
+          <option value="openpyxl" />
+          <option value="Pillow" />
+          <option value="pydantic" />
+          <option value="python-dotenv" />
+          <option value="python-logstash" />
+          <option value="redis" />
+          <option value="requests" />
+          <option value="simplejson" />
+          <option value="typer" />
+          <option value="Unidecode" />
+          <option value="xlrd" />
+          <option value="google-cloud-pubsub" />
+          <option value="protobuf" />
+          <option value="grpcio" />
+          <option value="grpcio-status" />
+          <option value="opentelemetry-instrumentation" />
+          <option value="opentelemetry-instrumentation-flask" />
+          <option value="opentelemetry-instrumentation-pymongo" />
+          <option value="opentelemetry-distro" />
+          <option value="opentelemetry-sdk" />
+          <option value="opentelemetry-exporter-otlp" />
+          <option value="opentelemetry-exporter-otlp-proto-grpc" />
+          <option value="opentelemetry-instrumentation-redis" />
+          <option value="opentelemetry-instrumentation-requests" />
+          <option value="ddtrace" />
+          <option value="aliexpress-iop" />
+          <option value="lazy-object-proxy" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
